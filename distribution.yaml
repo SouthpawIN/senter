@@ -1,15 +1,11 @@
 name: senter
-version: 0.1.1
-description: "Triage orchestrator \u2014 routes ideas from Nous Girl into Kanban tasks\
-  \ for Chizul"
+version: 0.1.0
+description: "Hermes Agent profile: senter"
 author: SouthpawIN
 license: MIT
-hermes_requires: '>=0.12.0'
-env_requires:
-- name: DISCORD_BOT_TOKEN
-  desc: Discord bot token
-  required: false
+hermes_requires: ">=0.12.0"
+env_requires: []
 distribution_owned:
-- SOUL.md
-- config.yaml
-- skills
+  - SOUL.md
+  - config.yaml
+  - skills/
