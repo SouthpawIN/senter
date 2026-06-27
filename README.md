@@ -1,6 +1,6 @@
 # Senter — Multi-Agent Fleet Orchestrator
 
-![Senter](https://v3b.fal.media/files/b/0a9fe833/WLaCNytD4sgI_uBUxu__-_CSDyll2F.png)
+![Senter](https://v3b.fal.media/files/b/0a9fe988/qY697zCVcVgPlCvuyNhIg_Cwp26xc8.png)
 
 ## What Senter Does
 - **Routes** incoming requests to the right specialist agent based on task type
